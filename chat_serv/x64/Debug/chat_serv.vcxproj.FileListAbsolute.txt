@@ -1,0 +1,2 @@
+C:\CPP\programs\chat_app\chat_serv\x64\Debug\chat_serv.exe
+C:\College\projects\chat_app\chat_serv\x64\Debug\chat_serv.exe
