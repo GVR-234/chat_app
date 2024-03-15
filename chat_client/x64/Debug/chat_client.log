@@ -1,0 +1,6 @@
+﻿  chat_client.cpp
+C:\College\projects\chat_app\chat_client\chat_client.cpp(31,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\College\projects\chat_app\chat_client\chat_client.cpp(111,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\College\projects\chat_app\chat_client\chat_client.cpp(138,45): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\College\projects\chat_app\chat_client\chat_client.cpp(149,67): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  chat_client.vcxproj -> C:\College\projects\chat_app\chat_client\x64\Debug\chat_client.exe
